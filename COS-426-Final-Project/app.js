@@ -202,3 +202,5 @@ function animate() {
 }
 init();
 animate();
+
+// Setting up GitHub
